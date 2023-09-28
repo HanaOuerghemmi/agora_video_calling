@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/hana/.pub-cache/hosted/pub.dev/iris_method_channel-1.2.0/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/hana/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/hana/.pub-cache/hosted/pub.dev/iris_method_channel-1.2.0/android/.cxx/Debug/456m3d71/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/hana/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/hana/.pub-cache/hosted/pub.dev/iris_method_channel-1.2.0/android/.cxx/Debug/456m3d71/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "iris_method_channel::@6890427a1f51a3e7e1df": {
+      "artifactName": "iris_method_channel",
+      "abi": "arm64-v8a",
+      "output": "/home/hana/HanaDoc/app/agora_video_calling/build/iris_method_channel/intermediates/cxx/Debug/456m3d71/obj/arm64-v8a/libiris_method_channel.so",
+      "runtimeFiles": []
+    }
+  }
+}
